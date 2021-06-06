@@ -1,0 +1,16 @@
+PODS:
+  - STTabbar (0.1.0)
+
+DEPENDENCIES:
+  - STTabbar
+
+SPEC REPOS:
+  trunk:
+    - STTabbar
+
+SPEC CHECKSUMS:
+  STTabbar: fe93da755010233b348b2d0147c43bb1bef290fa
+
+PODFILE CHECKSUM: abae19bfb72825a4ba06dde594d7bf35a6bd4a0f
+
+COCOAPODS: 1.8.4
